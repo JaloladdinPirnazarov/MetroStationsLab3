@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MetroStationsLab3</string>
+
+    <string-array name="StationName">
+        <item>Uzbekistan</item>
+        <item>Yunusobod</item>
+        <item>Chilinzor</item>
+        <item>Sirgali</item>
+    </string-array>
+
+    <string-array name="StationDescriptions">
+        <item>Uzbekistan is a station of the Tashkent Metro on Uzbekistan Line. The station was opened on 6 November 1977 as part of the inaugural section of Tashkent Metro, between October inkilobi and Sabir Rakhimov.</item>
+        <item>Yunusobod is a Tashkent Metro station on Yunusobod line. It was opened on 29 August 2020 together with Turkiston. The station is located between Shahriston and Turkiston stations.[1][2]  The construction of the station started in 2016. On 16 June 2020, Uzbek Railways, which owns Tashkent Metro, reported that the construction has been completed. The station is located in Yunusobod district of Tashkent and is expected to considerably aid with the passenger traffic situation in the city.</item>
+        <item>Chilonzor is a station of the Tashkent Metro on Chilonzor Line. The station was opened on 6 November 1977 as part of the inaugural section of Tashkent Metro, between October inkilobi and Sabir Rakhimov.</item>
+        <item>Sirgali, officially the 3rd station, is one of the Chilonzor road stations of the Tashkent metro. Uzbek Railways, which owns Tashkent Metro, reported that the construction has been completed. The station is located in Yunusobod district of Tashkent and is expected to considerably aid with the passenger traffic situation in the city.</item>
+    </string-array>
+
+</resources>
